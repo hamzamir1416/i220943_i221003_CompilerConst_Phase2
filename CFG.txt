@@ -1,0 +1,5 @@
+A -> aaB | aBB | acC
+B -> B
+C -> zX | zY
+X-> x 
+Y -> y 
