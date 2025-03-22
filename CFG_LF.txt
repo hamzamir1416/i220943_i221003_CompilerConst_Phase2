@@ -1,0 +1,15 @@
+A -> a A'
+A' -> aB | BB | cC
+
+B -> B B'
+B' -> ε
+
+C -> z C'
+C' -> X | Y
+
+X -> x X'
+X' -> ε
+
+Y -> y Y'
+Y' -> ε
+
